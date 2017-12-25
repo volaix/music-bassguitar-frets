@@ -1,4 +1,4 @@
-# music-bassguitar-frets
+# Coloured Notes for your Bass!
 Tried this out really roughly a year ago. Never looked back. Best feeling ever to always know what note youre playing. No longer playing blind.
 
 On instruments where I don't have the letters written out for me, I've picked up patterns and know 'key marks' anyway. The marks have assisted immensely Super recommended.
