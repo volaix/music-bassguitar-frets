@@ -37,9 +37,8 @@ Currently printing out a vinyl version for fun/permanence, will update on how it
 To edit, use the .ai file in illustrator. Groups and layers are self explanatory.
 
 
-```
-Insert Image here of finished thing
-```
+![26062816_10215060300319832_819385932_o](https://user-images.githubusercontent.com/16506248/34331459-0253bef2-e962-11e7-9452-c71e7c59c006.jpg)
+
 
 ## Colours?
 Ive tried many colour themes for getting things 'legit'. Originally tried LAB colour spacing in 12. Then HSB Max Saturation, the wheel/12. Settled on using this graphic found by Sienna Wood.
