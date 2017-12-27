@@ -32,12 +32,13 @@ Example, making sure your clear tape is bigger than paper. Putting tape on the u
 
 I originally just used paper and clear cello tape. Worked fine. Lasts about 1.5 years I'd say, depending on tape quality.
 
-Currently printing out a vinyl version for fun/permanence, will update on how it goes.
+Currently using a vinyl version for fun/permanence, will update on how it goes/longetivity.
 
 To edit, use the .ai file in illustrator. Groups and layers are self explanatory.
 
 
 ![26062816_10215060300319832_819385932_o](https://user-images.githubusercontent.com/16506248/34331459-0253bef2-e962-11e7-9452-c71e7c59c006.jpg)
+(Frayed from around 1 year of constant use)
 
 
 ## Colours?
